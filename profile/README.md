@@ -1,4 +1,4 @@
-<p align="center"><a target="_blank"><img src="assets/banners/main_banner_blue.png" alt="MyFiguDB Banner"></a></p>
+<p align="center"><a target="_blank"><img src="../assets/banners/main_banner_blue.png" alt="MyFiguDB Banner"></a></p>
 
 <p align="center">
   <!-- Langages -->
@@ -33,7 +33,7 @@ It allows users to **search**, **track**, and **organize** their figure collecti
 - Explore **other users’** collections, profiles and wishlists
 
 <br>
-<p align="center"><a target="_blank"><img src="assets/banners/banner_stack.png" alt="MyFiguDB Banner"></a></p>
+<p align="center"><a target="_blank"><img src="../assets/banners/banner_stack.png" alt="MyFiguDB Banner"></a></p>
 
 > MyFiguDB is built with a PERN Stack (PostgreSQL, ExpressJS, React, NodeJS)
 
@@ -46,7 +46,7 @@ It allows users to **search**, **track**, and **organize** their figure collecti
 
 
 <br>
-<p align="center"><a target="_blank"><img src="assets/banners/banner_team.png" alt="MyFiguDB Banner"></a></p>
+<p align="center"><a target="_blank"><img src="../assets/banners/banner_team.png" alt="MyFiguDB Banner"></a></p>
 
 <table border="0">
   <tr>
@@ -81,7 +81,7 @@ It allows users to **search**, **track**, and **organize** their figure collecti
 </table>
 
 <br>
-<p align="center"><a target="_blank"><img src="assets/banners/banner_end.png" alt="MyFiguDB Banner"></a></p>
+<p align="center"><a target="_blank"><img src="../assets/banners/banner_end.png" alt="MyFiguDB Banner"></a></p>
 
 <p align="center">
   © 2026 MyFiguDB — Licensed under the MIT License.
