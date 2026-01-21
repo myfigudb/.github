@@ -63,7 +63,7 @@ It allows users to **search**, **track**, and **organize** their figure collecti
       <a href="https://github.com/EwenDev">
         <img src="https://wsrv.nl/?url=github.com/EwenDev.png&w=80&h=80&fit=cover&mask=circle" width="80" height="80" alt="Wenwen23"/>
         <br />
-        <sub><b>Wenwen23</b></sub>
+        <sub><b>Wenwen</b></sub>
       </a>
       <br />
       Frontend Dev
