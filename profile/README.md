@@ -52,7 +52,7 @@ It allows users to **search**, **track**, and **organize** their figure collecti
   <tr>
     <td align="center">
       <a href="https://github.com/SolareFlame">
-        <img src="https://wsrv.nl/?url=github.com/SolareFlame.png&w=100&h=100&fit=cover&mask=circle" width="100" alt="Solare"/>
+        <img src="https://wsrv.nl/?url=github.com/SolareFlame.png&w=100&h=100&fit=cover&mask=circle" width="100" height="100" alt="Solare"/>
         <br />
         <sub><b>Solare</b></sub>
       </a>
@@ -61,16 +61,16 @@ It allows users to **search**, **track**, and **organize** their figure collecti
     </td>
     <td align="center">
       <a href="https://github.com/EwenDev">
-        <img src="https://wsrv.nl/?url=github.com/EwenDev.png&w=100&h=100&fit=cover&mask=circle" width="100" alt="Wenwen23"/>
+        <img src="https://wsrv.nl/?url=github.com/EwenDev.png&w=100&h=100&fit=cover&mask=circle" width="100" height="100" alt="Wenwen23"/>
         <br />
         <sub><b>Wenwen23</b></sub>
       </a>
       <br />
       Frontend Dev
     </td>
-     <td align="center">
+      <td align="center">
       <a href="https://github.com/Chairgamertag87">
-        <img src="https://wsrv.nl/?url=github.com/Chairgamertag87.png&w=100&h=100&fit=cover&mask=circle" width="100" alt="Chairgamertag87"/>
+        <img src="https://wsrv.nl/?url=github.com/Chairgamertag87.png&w=100&h=100&fit=cover&mask=circle" width="100" height="100" alt="Chairgamertag87"/>
         <br />
         <sub><b>Chairgamertag87</b></sub>
       </a>
