@@ -72,7 +72,7 @@ It allows users to **search**, **track**, and **organize** their figure collecti
       <a href="https://github.com/Chairgamertag87">
         <img src="https://wsrv.nl/?url=github.com/Chairgamertag87.png&w=80&h=80&fit=cover&mask=circle" width="80" height="80" alt="Chairgamertag87"/>
         <br />
-        <sub><b>Chairgamertag87</b></sub>
+        <sub><b>Chair<wbr>gamertag87</b></sub>
       </a>
       <br />
       Backend Dev
