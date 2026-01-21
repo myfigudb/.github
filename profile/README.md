@@ -48,36 +48,36 @@ It allows users to **search**, **track**, and **organize** their figure collecti
 <br>
 <p align="center"><a target="_blank"><img src="../assets/banners/banner_team.png" alt="MyFiguDB Banner"></a></p>
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://github.com/SolareFlame">
-        <img src="https://wsrv.nl/?url=github.com/SolareFlame.png&w=100&h=100&fit=cover&mask=circle" width="100" height="100" alt="Solare"/>
+        <img src="https://wsrv.nl/?url=github.com/SolareFlame.png&w=100&h=100&fit=cover&mask=circle" width="100" alt="Solare"/>
         <br />
         <sub><b>Solare</b></sub>
       </a>
       <br />
       Lead Dev
     </td>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://github.com/EwenDev">
-        <img src="https://wsrv.nl/?url=github.com/EwenDev.png&w=100&h=100&fit=cover&mask=circle" width="100" height="100" alt="Wenwen23"/>
+        <img src="https://wsrv.nl/?url=github.com/EwenDev.png&w=100&h=100&fit=cover&mask=circle" width="100" alt="Wenwen23"/>
         <br />
         <sub><b>Wenwen23</b></sub>
       </a>
       <br />
       Frontend Dev
     </td>
-      <td align="center">
+    <td align="center" width="33%">
       <a href="https://github.com/Chairgamertag87">
-        <img src="https://wsrv.nl/?url=github.com/Chairgamertag87.png&w=100&h=100&fit=cover&mask=circle" width="100" height="100" alt="Chairgamertag87"/>
+        <img src="https://wsrv.nl/?url=github.com/Chairgamertag87.png&w=100&h=100&fit=cover&mask=circle" width="100" alt="Chairgamertag87"/>
         <br />
         <sub><b>Chairgamertag87</b></sub>
       </a>
       <br />
       Backend Dev
     </td>
-    </tr>
+  </tr>
 </table>
 
 <br>
